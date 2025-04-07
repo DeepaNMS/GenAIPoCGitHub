@@ -33,7 +33,7 @@ public class PersistenceIncident extends PersistenceAuditableIdEntity {
     private LocalDate receivedOn; //received  dd one
     private boolean isIncidentInfoOnly;
     private PersistenceAddress location;//new change
-    private OffsetDateTime incidentDateTime; //incident date and time
+    private OffsetDateTime incidentDateTime; //incidenjjjt date and time
     @Deprecated(forRemoval = true)
     private String whatHappenedCode; //hah
     private String whatHappenedDescription;
