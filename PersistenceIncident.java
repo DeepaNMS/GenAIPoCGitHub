@@ -50,7 +50,7 @@ public class PersistenceIncident extends PersistenceAuditableIdEntity {
     private PersistenceLabeledValue reportingMedium;//dddd
     private OffsetDateTime discoveryDate; //sss23423333
     private List<PersistenceDocumentContextReference> additionalDocuments;
-    private boolean confidential; //cddd
+    private boolean confidential; //cdddjj
     private PersistencePremiumStatus premiumStatus;//ddddd
     private PersistenceIncidentManuallyAddedPolicyData manuallyAddedPolicyData;
     private String incidentTimeZone; ////dddd33
