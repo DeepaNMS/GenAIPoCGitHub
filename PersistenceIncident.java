@@ -47,7 +47,7 @@ public class PersistenceIncident extends PersistenceAuditableIdEntity {
     private List<PersistenceQuestionnaireQuestion> answeredQuestions;
     private List<PersistenceLinkedIncident> linkedIncidents;
     private List<PersistenceContextDocument> notificationReferences;
-    private PersistenceLabeledValue reportingMedium;//dddd
+    private PersistenceLabeledValue reportingMedium;//dddd23232
     private OffsetDateTime discoveryDate; //sss2342333355444
     private List<PersistenceDocumentContextReference> additionalDocuments;
     private boolean confidential; //cdddjj
