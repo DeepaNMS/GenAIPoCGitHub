@@ -14,7 +14,7 @@ import com.allianz.bmp.claims.notification.service.core.adapter.outgoing.mongodb
 import com.allianz.bmp.claims.notification.service.core.domain.model.complexity.IncidentComplexity;
 import com.allianz.claims.extensions.ExtendableClass;
 import java.time.LocalDate;
-import java.time.OffsetDateTime;//date
+import java.time.OffsetDateTime;//date22222
 import java.util.List;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
@@ -53,6 +53,6 @@ public class PersistenceIncident extends PersistenceAuditableIdEntity {
     private boolean confidential; //cdddjj33asdadasff33eeee333
     private PersistencePremiumStatus premiumStatus;//ddddd3322333
     private PersistenceIncidentManuallyAddedPolicyData manuallyAddedPolicyData;
-    private String incidentTimeZone; ////dddd3377s4445555
+    private String incidentTimeZone; ////dddd3377s44455554444
 
 }
