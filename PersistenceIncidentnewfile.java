@@ -30,9 +30,9 @@ public class PersistenceIncident extends PersistenceAuditableIdEntity {
 
     private String incidentNumber; //incident nr
     private String incidentNumberAdded; // new attribute 
+    private String incidentNumberAdded2; // Added line
     private String natCatCode; // nat code 
-    private LocalDate receivedOn; //received  dd one
-    private boolean isIncidentInfoOnly;
+    private LocalDate receivedOnDate; // Changed line and deleted like isIncidentInfoOnly
     private PersistenceAddress location;//new change
     private OffsetDateTime incidentDateTime; //incidenjjjt date and time
     @Deprecated(forRemoval = true)
