@@ -55,4 +55,5 @@ public class PersistenceIncident extends PersistenceAuditableIdEntity {
     private PersistenceIncidentManuallyAddedPolicyData manuallyAddedPolicyData;
     private String incidentTimeZone; ////dddd3377s44455554444333
     private String deepatestvariable5; //sample test var testsdsddwqd test
+    private String deepatestvariable6; //sample test var testsdsddwqd test
 }
