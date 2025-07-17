@@ -12,7 +12,7 @@ import com.allianz.bmp.claims.notification.service.core.adapter.outgoing.mongodb
 import com.allianz.bmp.claims.notification.service.core.adapter.outgoing.mongodb.notification.model.incident.coverage.PersistenceCoverageData;
 import com.allianz.bmp.claims.notification.service.core.adapter.outgoing.mongodb.notification.model.owndamage.PersistenceContextDocument;
 import com.allianz.bmp.claims.notification.service.core.domain.model.complexity.IncidentComplexity;
-import com.allianz.claims.extensions.ExtendableClass;
+import com.allianz.claims.extensions.ExtendableClass;//deepa
 import java.time.LocalDate;
 import java.time.OffsetDateTime;//date22222
 import java.util.List;
