@@ -32,7 +32,7 @@ public class PersistenceIncident extends PersistenceAuditableIdEntity {
     private String cfmnewincidentNumber; //incident nr4466kk
     private String natCatCode; // nat code 66666kk
     private LocalDate receivedOn; //received  dd one
-    private boolean isIncidentInfoOnly;
+    private boolean isIncidentInfoOnly;//kk
     private PersistenceAddress location;//new changekkk
     private OffsetDateTime incidentDateTime; //incidenjjjt date and time
     @Deprecated(forRemoval = true)
