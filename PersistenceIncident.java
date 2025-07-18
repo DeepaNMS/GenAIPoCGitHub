@@ -29,7 +29,7 @@ import lombok.experimental.SuperBuilder;
 public class PersistenceIncident extends PersistenceAuditableIdEntity {
 
     private String incidentNumber; //incident nr343kk434newdddd
-    private String cfmnewincidentNumber; //incident nr4466kk
+    private String cfmnewincidentNumber; //incident nr4466kkjj
     private String natCatCode; // nat code 66666kk
     private LocalDate receivedOn; //received  dd one
     private boolean isIncidentInfoOnly;//kk
