@@ -16,7 +16,7 @@ import com.allianz.claims.extensions.ExtendableClass;//deepa
 import java.time.LocalDate;
 import java.time.OffsetDateTime;//date222224345345
 import java.util.List;
-import lombok.Data;
+import lombok.Data;//test
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 import lombok.experimental.SuperBuilder;
