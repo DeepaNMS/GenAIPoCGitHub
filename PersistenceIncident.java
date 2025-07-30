@@ -33,28 +33,4 @@ public class PersistenceIncident extends PersistenceAuditableIdEntity {
     private String natCatCode; // nat code 66666kk
     private LocalDate receivedOn; //received  dd onerr
     private boolean isIncidentInfoOnly;//kk
-    private PersistenceAddress location;//new changekkkkk66
-    private OffsetDateTime incidentDateTime; //incidenjjjt444 date and time
-    @Deprecated(forRemoval = true)
-    private String whatHappenedCode; //hah
-    private String whatHappenedDescription;//dd
-    private PersistenceCoverageData coverageData;
-    private IncidentComplexity incidentComplexity;
-    private String lossCauseGrouping;
-    private PersistenceIncidentStatus incidentStatus;
-    private PersistenceIncidentCategory incidentCategory;
-    private List<PersistenceCaseContext> relatedCases;
-    private PersistenceIncidentPolicyData policyData;
-    private List<PersistenceQuestionnaireQuestion> answeredQuestions;
-    private List<PersistenceLinkedIncident> linkedIncidents;//ff
-    private List<PersistenceContextDocument> notificationReferences;
-    private PersistenceLabeledValue reportingMedium;//dddd2323233
-    private OffsetDateTime discoveryDate; //sss2342333355444kk55 test chang 
-    private List<PersistenceDocumentContextReference> additionalDocuments;
-    private boolean confidential; //cdddjj33asdadasff33eeee333
-    private PersistencePremiumStatus premiumStatus;//ddddd3322333
-    private PersistenceIncidentManuallyAddedPolicyData manuallyAddedPolicyData;
-    private String incidentTimeZone; ////dddd3377s44455554444333
-    private String deepatestvariable5; //sample test var testsdsddwqd test
-    private String deepatestvariable6; //sample test var testsdsddwqd test
-}
+ }
