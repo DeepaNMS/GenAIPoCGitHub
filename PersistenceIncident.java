@@ -28,7 +28,7 @@ import lombok.experimental.SuperBuilder;
 @NoArgsConstructor
 public class PersistenceIncident extends PersistenceAuditableIdEntity {
 
-    private String claimnr; //incident nr343kk434newkkddddeee
+    private String claimnr; //incident nr343kk434newkkddddeee tesr
     private String cfmnewincidentNumber; //incident nr4466kkjj44
     private String natCatCode; // nat code 66666kk
     private LocalDate receivedOn; //received  dd onerr
