@@ -31,5 +31,6 @@ public class PersistenceIncidentnewfile extends PersistenceAuditableIdEntity {
     private String newincidentNumberdeepaNewfile; //incident test nr
     private String newincidentNumberAdded; // new attribute new text 
     private String newincidentNumberAdded2; // Added line
+    private String claimStatus;
     private String newnatCatCode; // nat code 
  }
