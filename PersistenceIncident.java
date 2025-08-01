@@ -31,6 +31,7 @@ public class PersistenceIncident extends PersistenceAuditableIdEntity {
     private String claimnr; //incident nr343kk434newkkddddeee tesr
     private String cfmnewincidentNumber; //incident nr4466kkjj44
     private String natCatCode; // nat code 66666kk
+    private String logs; // nat code 66666kk
     private String claimStatus;
     private LocalDate receivedOn; //received  dd onerr
     private boolean isIncidentInfoOnly;//kk
